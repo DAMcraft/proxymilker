@@ -1,0 +1,2 @@
+# I don't know why you would need this, it is just one library
+grequests~=0.6.0
